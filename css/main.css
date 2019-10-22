@@ -13,7 +13,7 @@ h1 {
   border-radius: 10px;
   margin: 1px;
   padding: .6em .5em .6em .5em;
-  display: inline-block;
+  display: block;
   vertical-align: center;
   text-align: center;
   float: none;
@@ -29,7 +29,7 @@ h1 {
   border-radius: 10px;
   margin: 1px;
   padding: .6em .5em .6em .5em;
-  display: inline-block;
+  display: inline;
   vertical-align: center;
   text-align: center;
   float: none;
