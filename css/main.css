@@ -1,9 +1,16 @@
 html {
   background-color: #dbd6cf;
+  box-sizing: html {
+    box-sizing: border-box;
+  }
+
+  *, *::before, *::after {
+    box-sizing: inherit;
+  }
 }
 
 h1 {
-  font-family: "Bevan", sans-serif;
+  font-family: 'Bevan', sans-serif;
   font-weight: normal;
   text-align: center;
   line-height: 1.5;
@@ -12,14 +19,12 @@ h1 {
   border: 1px solid #595652;
   border-radius: 10px;
   margin: 1px;
-  padding: .6em .5em .6em .5em;
+  padding: .6em .5em;
   display: block;
   vertical-align: center;
-  text-align: center;
   float: none;
 
   background-color:#79756f;
-  font-weight: normal;
   color: #fff;
 }
 
@@ -28,7 +33,7 @@ h1 {
   border: 1px solid #713837;
   border-radius: 10px;
   margin: 1px;
-  padding: .6em .5em .6em .5em;
+  padding: .6em .5em;
   display: inline-block;
   vertical-align: center;
   text-align: center;
