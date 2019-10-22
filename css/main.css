@@ -3,35 +3,32 @@ html {
 }
 
 h1 {
-  font-family: 'Bevan', sans-serif;
+  font-family: Bevan, sans-serif;
   font-weight: normal;
   text-align: center;
   line-height: 1.5;
 
   width: 100%;
   border: 3px solid #595652;
-  margin: .3em;
+  margin: 1px;
   padding: .75em;
   display: block;
-  vertical-align: center;
   float: none;
 
-  background-color:#79756f;
+  background-color: #79756f;
   color: #fff;
 }
 
 .box {
-  width: 50%;
   border: 1px solid #713837;
   border-radius: 10px;
-  margin: 1px;
   padding: .6em .5em;
   display: inline;
   vertical-align: center;
   text-align: center;
   float: none;
 
-  background-color:#713837;
+  background-color: #713837;
   font-family: sans-serif;
   font-weight: normal;
   color: #fff;
