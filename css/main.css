@@ -40,7 +40,7 @@ h1 {
   color: #fff;
 }
 
-.box:hover {
+li:hover {
   color: #f33;
   text-decoration: none;
 }
