@@ -47,6 +47,14 @@ h1 {
 
 nav ul {
   list-style-type: none;
+  text-decoration: none;
+  color: #fff;
+}
+
+a {
+  text-decoration: none;
+  list-style-type: none;
+  color: #fff;
 }
 
 li:hover {
