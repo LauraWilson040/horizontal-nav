@@ -22,7 +22,10 @@ h1 {
   padding: .75em;
   display: block;
   float: none;
-  margin-bottom: 1pt;
+  margin-top: 0pt;
+  margin-left: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
 
   background-color: #79756f;
   color: #fff;
@@ -36,7 +39,10 @@ h1 {
   vertical-align: center;
   text-align: center;
   float: none;
-  margin-top: 1pt;
+  margin-top: 0pt;
+  margin-left: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
 
   background-color: #713837;
   font-family: sans-serif;
