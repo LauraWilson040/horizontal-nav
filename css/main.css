@@ -1,3 +1,10 @@
 html {
+  background-color: #dbd6cf;
+}
 
+h1 {
+  font-family: "Bevan", sans-serif;
+  font-weight: normal;
+  color: #fff;
+  line-height: 1.5;
 }
