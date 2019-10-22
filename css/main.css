@@ -39,3 +39,8 @@ h1 {
   font-weight: normal;
   color: #fff;
 }
+
+.box:hover {
+  color: #f33;
+  text-decoration: none;
+}
