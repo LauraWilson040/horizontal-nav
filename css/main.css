@@ -1,5 +1,6 @@
 html {
   background-color: #dbd6cf;
+  box-sizing: .75em;
 }
 
 h1 {
@@ -11,7 +12,7 @@ h1 {
   width: 25%;
   border: 1px solid #595652;
   border-radius: 10px;
-  margin: .75em;
+  margin: 1px;
   padding: .6em .5em .6em .5em;
   display: inline-block;
   vertical-align: center;
@@ -27,7 +28,7 @@ h1 {
   width: 25%;
   border: 1px solid #713837;
   border-radius: 10px;
-  margin: .75em;
+  margin: 1px;
   padding: .6em .5em .6em .5em;
   display: inline-block;
   vertical-align: center;
