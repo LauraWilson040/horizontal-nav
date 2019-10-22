@@ -16,9 +16,9 @@ h1 {
   line-height: 1.5;
 
   width: 100%;
-  border: 1px solid #595652;
-  margin: 1px;
-  padding: .6em .5em;
+  border: 3px solid #595652;
+  margin: .3em;
+  padding: .75em;
   display: block;
   vertical-align: center;
   float: none;
@@ -48,9 +48,9 @@ h1 {
   width: 50%;
   border: 1px solid #713837;
   border-radius: 10px;
-  margin: 1px;
+  margin: 1em;
   padding: .6em .5em;
-  display: inline-block;
+  display: block;
   vertical-align: center;
   text-align: center;
   float: none;
@@ -63,10 +63,6 @@ h1 {
 
 nav ul {
   list-style-type: none;
-}
-
-nav li {
-  display: inline;
 }
 
 a {
