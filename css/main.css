@@ -15,8 +15,8 @@ h1 {
   padding: .6em .5em .6em .5em;
   display: inline-block;
   vertical-align: center;
-  text-align: none;
-  float: center;
+  text-align: center;
+  float: none;
 
   background-color:#79756f;
   font-weight: normal;
@@ -31,13 +31,15 @@ h1 {
   padding: .6em .5em .6em .5em;
   display: inline-block;
   vertical-align: center;
-  text-align: none;
-  float: center;
+  text-align: center;
+  float: none;
 
   background-color:#713837;
   font-family: sans-serif;
   font-weight: normal;
   color: #fff;
+  list-style-type: none;
+  text-decoration: none;
 }
 
 li:hover {
