@@ -8,19 +8,29 @@ html {
 
 body {
   background-color: #dbd6cf;
+  line-height: 1.5;
   margin: 0;
+}
+
+header {
+  background-color: #79756f;
+  width: 100%;
+  border: 3px solid #595652;
+  padding: .75em;
+  display: block;
+  float: none;
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 0;
 }
 
 h1 {
   font-family: Bevan, serif;
   font-weight: normal;
   text-align: center;
-  line-height: 1.5;
 
   width: 100%;
-  border: 3px solid #595652;
-  padding: .75em;
-  padding-bottom: 50px;
   display: block;
   float: none;
   margin-top: 0;
