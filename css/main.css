@@ -44,11 +44,12 @@ h1 {
   font-family: sans-serif;
   font-weight: normal;
   color: #fff;
+}
+
+ul {
   list-style-type: none;
-  text-decoration: none;
 }
 
 li:hover {
   color: #f33;
-  text-decoration: none;
 }
